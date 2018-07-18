@@ -1,13 +1,13 @@
-Source: numix-icon-theme-square
+Source: numix-icon-theme-circle
 Section: gnome
 Priority: extra
 Maintainer: Paolo Rotolo <paolorotolo@ubuntu.com>
 Build-Depends: debhelper (>= 7)
 Standards-Version: 3.9.4
-Homepage: https://github.com/numixproject/numix-icon-theme-square
+Homepage: http://numixproject.org/
 
-Package: numix-icon-theme-square
+Package: numix-icon-theme-circle
 Architecture: all
 Depends: numix-icon-theme, ${misc:Depends}
-Description: Numix Square icons
- Numix Square is an icon theme from the Numix project - https://github.com/numixproject/numix-icon-theme-square.
+Description: Numix Circle icons
+ Numix Circle is an icon theme from the Numix project - http://numixproject.org.
